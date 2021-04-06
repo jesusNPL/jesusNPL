@@ -2,7 +2,7 @@
 
 On my GitHub, you will find repos with research and teaching material.
 
-For more infomation, check out jesusnpl.github.io.
+For more infomation, please check out my personal website [jesusnpl.github.io](https://jesusnpl.github.io) or you can also follow me on [Twitter](https://twitter.com/JesusNPL).
 
 <!--
 **jesusNPL/jesusNPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
