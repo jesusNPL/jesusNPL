@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Jesús N. Pinto-Ledezma and I am a 🇧🇴 evolutionary ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. 
+
+On my GitHub, you will find repos with research and teaching material.
+
+For more infomation, check out jesusnpl.github.io.
 
 <!--
 **jesusNPL/jesusNPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
