@@ -1,13 +1,10 @@
 ### Hi there 👋 
 
-[![Website](https://img.shields.io/website?label=jesusnpl.github.io&style=for-the-badge&url=https%3A%2F%2Fjesusnpl.github.io)](https://jesusnpl.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JesusNPL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJesusNPL&screen_name=JesusNPL)
-
 My name is Jesús N. Pinto-Ledezma and I am a 🇧🇴 evolutionary ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. 
 
 On my GitHub, you will find repos with research and teaching material.
 
-For more infomation, please check out my personal website [jesusnpl.github.io](https://jesusnpl.github.io) or you can also follow me on [Twitter](https://twitter.com/JesusNPL).
+For more infomation, please check out my personal website [![Website](https://img.shields.io/website?label=jesusnpl.github.io&style=for-the-badge&url=https%3A%2F%2Fjesusnpl.github.io)](https://jesusnpl.github.io) or you can also follow me on [![Twitter Follow](https://img.shields.io/twitter/follow/JesusNPL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJesusNPL&screen_name=JesusNPL).
 
 ### Connect with me:
 
