@@ -7,7 +7,7 @@ My name is Jesús N. Pinto-Ledezma and I am a 🇧🇴 evolutionary ecologist in
 
 On my GitHub, you will find repos with research and teaching material.
 
-For more infomation, please check out my personal Website[website] or you can also follow me on Twitter[twitter].
+For more infomation, please check out my personal [Website](website) or you can also follow me on [Twitter](twitter).
 
 ### Connect with me:
 
