@@ -19,7 +19,6 @@ For more infomation, please check out my personal website [jesusnpl.github.io](h
 ---
 </details>
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="jesusNPL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jesusNPL&show_icons=true&hide_border=true" />
