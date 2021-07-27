@@ -6,6 +6,21 @@ On my GitHub, you will find repos with research and teaching material.
 
 For more infomation, please check out my personal website [jesusnpl.github.io](https://jesusnpl.github.io) or you can also follow me on [Twitter](https://twitter.com/JesusNPL).
 
+### Connect with me:
+
+[<img align="left" alt="jesusnpl.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JesusNPL | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+---
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="jesusNPL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jesusNPL&show_icons=true&hide_border=true" />
+
 <!--
 **jesusNPL/jesusNPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,10 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jesusNPL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jesusNPL&show_icons=true&hide_border=true" />
