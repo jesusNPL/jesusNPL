@@ -17,7 +17,7 @@ For more infomation, please check out my personal [Website](website) or you can 
 <br />
 
 ---
-![JesusNPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusNPL&hide=contribs,prs)
+![JesusNPL's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusNPL&theme=dark&show_icons=true)
 
  </details>
 
