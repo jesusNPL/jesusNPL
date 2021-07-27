@@ -23,7 +23,7 @@ For more infomation, please check out my personal [Website](website) or you can 
 <img align="left" alt="C++" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="MarkDown" height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="Python" height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="GitHub" height="32" width="32px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="GitHub" height="32" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
 <img align="left" alt="Julia" height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png" />
 <img align="left" alt="MatLab" height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Git" height="32" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
