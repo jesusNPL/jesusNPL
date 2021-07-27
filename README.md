@@ -24,6 +24,11 @@ For more infomation, please check out my personal website [jesusnpl.github.io](h
 
   <img align="left" alt="jesusNPL's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jesusNPL&show_icons=true&hide_border=true" />
 
+ </details>
+
+[website]: https://jesusnpl.github.io
+[twitter]: https://twitter.com/JesusNPL
+
 <!--
 **jesusNPL/jesusNPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
