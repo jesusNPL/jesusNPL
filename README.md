@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=jesusnpl.github.io&style=for-the-badge&url=https%3A%2F%2Fjesusnpl.github.io)](https://jesusnpl.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JesusNPL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJesusNPL&screen_name=JesusNPL)
 
-My name is Jesús N. Pinto-Ledezma and I am a 🇧🇴 evolutionary (macro)ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. 
+My name is Jesús N. Pinto-Ledezma and I am a 🇧🇴 evolutionary (macro)ecologist interested in Macroecology and Macroevolution, Community and Theoretical Ecology, Landscape Ecology and Natural History. My work focuses on developing a deeper understanding of species coexistence and patterns of diversity across spatial and temporal scales, and the underlying processes that drive, maintain, and alter such patterns. I have a passion for science and for diversity and inclusion in education and research.
 
 On my GitHub, you will find repos with research and teaching material.
 
